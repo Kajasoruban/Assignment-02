@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#bord{
+    border-radius: 18px;
+    background-color: orangered;
+    color: white;
+    border: 0;
+}
+.one{
+    margin-left: 300px;
+}
+.two{
+    margin-right: 200px;
+}
